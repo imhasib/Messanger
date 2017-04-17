@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package com.hasib.MessengSrserver;
+package com.hasib.server;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;

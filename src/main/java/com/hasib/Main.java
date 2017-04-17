@@ -3,10 +3,10 @@ package com.hasib;/*
  * and open the template in the editor.
  */
 
-import com.hasib.MessengSrserver.ServerManager;
-import com.hasib.MessengSrserver.ServerMonitor;
-import com.hasib.messengerclient.ClientManager;
-import com.hasib.messengerclient.LoginFrame;
+import com.hasib.server.ServerManager;
+import com.hasib.server.ServerMonitor;
+import com.hasib.client.ClientManager;
+import com.hasib.client.LoginFrame;
 
 /**
  *
@@ -20,6 +20,8 @@ public class Main
      */
     public static void main(String[] args)
     {
+        System.out.println("Number of arguments: " + args.length);
+        System.out.println(args[0]);
         if("server".equalsIgnoreCase(args[0])) {
             ServerManager serverManager=new ServerManager();
             ServerMonitor monitor=new ServerMonitor(serverManager);

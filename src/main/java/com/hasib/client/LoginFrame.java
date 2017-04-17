@@ -9,10 +9,7 @@
  * Created on May 30, 2010, 11:59:04 PM
  */
 
-package com.hasib.messengerclient;
-
-import com.sun.deploy.util.StringUtils;
-import com.sun.xml.internal.ws.util.StreamUtils;
+package com.hasib.client;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;

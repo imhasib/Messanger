@@ -9,7 +9,7 @@
  * Created on May 30, 2010, 11:35:56 PM
  */
 
-package com.hasib.messengerclient;
+package com.hasib.client;
 
 /**
  *

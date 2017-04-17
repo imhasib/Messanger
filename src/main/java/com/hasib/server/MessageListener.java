@@ -3,9 +3,7 @@
  * and open the template in the editor.
  */
 
-package com.hasib.MessengSrserver;
-
-import java.io.ObjectOutputStream;
+package com.hasib.server;
 
 /**
  *

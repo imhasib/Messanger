@@ -9,7 +9,7 @@
  * Created on Jan 1, 2004, 2:37:44 PM
  */
 
-package com.hasib.MessengSrserver;
+package com.hasib.server;
 
 import java.awt.BorderLayout;
 import javax.swing.DefaultListSelectionModel;

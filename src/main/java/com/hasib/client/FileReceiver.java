@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package com.hasib.messengerclient;
+package com.hasib.client;
 import java.net.*;
 import java.io.*;
 import java.util.logging.Level;

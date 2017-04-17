@@ -9,7 +9,7 @@
  * Created on May 31, 2010, 12:13:48 AM
  */
 
-package com.hasib.messengerclient;
+package com.hasib.client;
 
 import java.awt.BorderLayout;
 import javax.swing.DefaultListSelectionModel;

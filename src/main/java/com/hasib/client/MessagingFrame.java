@@ -9,7 +9,7 @@
  * Created on Jul 28, 2010, 10:04:21 AM
  */
 
-package com.hasib.messengerclient;
+package com.hasib.client;
 
 import javax.swing.JFileChooser;
 
